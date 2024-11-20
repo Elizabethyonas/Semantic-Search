@@ -1,0 +1,7 @@
+Question,Answer
+How to install Python?,Visit python.org and download the installer for your system.
+What is semantic search?,Semantic search understands the meaning of words to return relevant results.
+What is Flask used for?,Flask is a web framework for Python used to build web applications.
+How to install a Python package?,Use pip install <package_name> to install a package.
+What is Jupyter Notebook?,Jupyter Notebook is an interactive environment for writing and running code.
+What is machine learning?,Machine learning is a field of AI focused on training algorithms to make predictions.
