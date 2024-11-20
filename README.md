@@ -38,7 +38,7 @@ The FAQ dataset (`faq.csv`) contains example questions and answers:
 | What is semantic search?           | Semantic search understands the meaning of words to return relevant results. |
 | What is Flask used for?            | Flask is a web framework for Python used to build web applications.   |
 
-You can expand the dataset by adding more questions and answers.
+
 
 ---
 
